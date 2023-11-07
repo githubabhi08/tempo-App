@@ -1,0 +1,118 @@
+.head{
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    top: 120px;
+    position: relative;
+  /* color:yellow; */
+    color: rgb(250, 10, 50);
+  }
+  
+  .tym{
+    position: relative;
+    top: 77px;
+    left: 40.2rem;
+    font-weight: 700;
+  /*    color: cyan; */
+    color: rgb(250, 10, 50);
+  }
+  
+  .input-main{
+    position: relative;
+    background-color: aqua;
+    height: 32rem;
+    width: 25rem;
+   top: 140px;
+   left: 37%;
+  }
+  
+  
+  .input{
+    position: absolute;
+    top: 1.9rem;
+    font-size: 18px;
+    font-weight: 570;
+    left: 12%;
+    height: 2.7rem;
+    width: 77%;}
+  
+  
+  
+  .output{
+    position: absolute;
+    top: 12.9rem;
+    left: 32%;
+    color: black;
+    font-weight: 700;
+  }
+  
+  .err{
+    position: absolute;
+    top: 7.9rem;
+    left: 25%;
+  }
+  
+  .res1{
+    position: absolute;
+    top: 17.7rem;
+    left: 35%;
+    font-weight: 500;
+  }
+  .res2{
+    position: absolute;
+    top: 20.7rem;
+    left: 35%;
+    font-weight: 500;
+  }
+  
+  /* media query starts */
+  
+  @media screen and (max-width:420px){
+    .head{
+        position: relative;
+        left: -20px;
+        font-weight: 900;
+        top: 120px;
+        position: relative;
+        color: rgb(250, 10, 50);
+     
+    }
+    .output{
+      position: absolute;
+      top: 12.9rem;
+      left: 32%;
+      color: black;
+      font-weight: 700;
+    }
+  
+    .input-main{
+        position: relative;
+        background-color: aqua;
+        height: 32rem;
+        width: 20rem;
+       top: 140px;
+       left: 5.9%;
+    }
+  
+    .input{
+      position: absolute;
+      top: 1.9rem;
+      font-size: 18px;
+      font-weight: 570;
+      left: 12%;
+      height: 2.7rem;
+      width: 77%;
+      
+    }
+  
+    .tym{
+      position: relative;
+      top: 77px;
+      left: 6.2rem;
+      font-weight: 700;
+   /*    color: cyan; */
+      color: rgb(250, 10, 50);
+    }
+  
+  
+  }

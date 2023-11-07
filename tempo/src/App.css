@@ -8,6 +8,14 @@
   color: rgb(250, 10, 50);
 }
 
+.tym{
+  position: relative;
+  top: 77px;
+  left: 40.2rem;
+  font-weight: 700;
+/*    color: cyan; */
+  color: rgb(250, 10, 50);
+}
 
 .input-main{
   position: relative;
@@ -22,9 +30,14 @@
 .input{
   position: absolute;
   top: 1.9rem;
-  left: 25%;
-  
-}
+  font-size: 18px;
+  font-weight: 570;
+  left: 12%;
+  height: 2.7rem;
+  width: 77%;}
+
+
+
 .output{
   position: absolute;
   top: 12.9rem;
@@ -64,7 +77,13 @@
       color: rgb(250, 10, 50);
    
   }
-
+  .output{
+    position: absolute;
+    top: 12.9rem;
+    left: 32%;
+    color: black;
+    font-weight: 700;
+  }
 
   .input-main{
       position: relative;
@@ -72,7 +91,7 @@
       height: 32rem;
       width: 20rem;
      top: 140px;
-     left: 5%;
+     left: 5.9%;
   }
 
   .input{
@@ -84,6 +103,15 @@
     height: 2.7rem;
     width: 77%;
     
+  }
+
+  .tym{
+    position: relative;
+    top: 77px;
+    left: 6.2rem;
+    font-weight: 700;
+ /*    color: cyan; */
+    color: rgb(250, 10, 50);
   }
 
 
