@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tempo-App/static/css/main.b62a9cd1.css",
+    "main.js": "/tempo-App/static/js/main.2564614f.js",
+    "static/js/787.4708a5b3.chunk.js": "/tempo-App/static/js/787.4708a5b3.chunk.js",
+    "index.html": "/tempo-App/index.html",
+    "main.b62a9cd1.css.map": "/tempo-App/static/css/main.b62a9cd1.css.map",
+    "main.2564614f.js.map": "/tempo-App/static/js/main.2564614f.js.map",
+    "787.4708a5b3.chunk.js.map": "/tempo-App/static/js/787.4708a5b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62a9cd1.css",
+    "static/js/main.2564614f.js"
+  ]
+}
